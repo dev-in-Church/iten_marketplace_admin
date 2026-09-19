@@ -135,10 +135,6 @@ export default function AdminLoginPage() {
             </Button>
           </form>
         </div>
-
-        <p className="text-center text-xs text-white/40 mt-6">
-          No signup available. Admin accounts are predefined.
-        </p>
       </div>
     </div>
   );
